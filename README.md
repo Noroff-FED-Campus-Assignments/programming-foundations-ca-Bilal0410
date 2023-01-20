@@ -13,11 +13,15 @@ npm install
 npm run dev
 ```
 
-## _REPLACE_ Object
-
-// Use this file to write your report.
+## Car Object
 
 This object has the following properties:
+
+- Brand (String), the name of the car.
+- Kilometres (Number), the number of km the car has been driven.
+- fastCar (Boolean), is this a fast car?
+- Gearbox (Array), list of gears the car have. 
+- Start (Function), a message that appears when you want to start the car.
 
 ## Minimum acceptance Criteria
 
